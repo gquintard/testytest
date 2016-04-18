@@ -59,7 +59,9 @@ Example
                         // "cookie1: value1; cookie2: value2;";
                 }
 
-$Function STRING format_rfc1123(TIME, DURATION)
+.. raw:: vcc
+        $Function STRING format_rfc1123(TIME, DURATION)
+        
 Description
         Get a RFC1123 formatted date string suitable for inclusion in a
         Set-Cookie response header.
