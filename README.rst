@@ -59,8 +59,9 @@ Example
                         // "cookie1: value1; cookie2: value2;";
                 }
 
-.. raw:: vcc
-        $Function STRING format_rfc1123(TIME, DURATION)
+.. meta::
+   :description: STRING format_rfc1123(TIME, DURATION)
+   :type: Function
         
 Description
         Get a RFC1123 formatted date string suitable for inclusion in a
