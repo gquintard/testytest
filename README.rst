@@ -60,6 +60,7 @@ Example
                 }
 
 .. class:: Function
+
         STRING format_rfc1123(TIME, DURATION)
 
 Description
