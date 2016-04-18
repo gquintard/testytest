@@ -59,10 +59,9 @@ Example
                         // "cookie1: value1; cookie2: value2;";
                 }
 
-.. meta::
-   :description: STRING format_rfc1123(TIME, DURATION)
-   :type: Function
-        
+.. class:: Function
+        STRING format_rfc1123(TIME, DURATION)
+
 Description
         Get a RFC1123 formatted date string suitable for inclusion in a
         Set-Cookie response header.
