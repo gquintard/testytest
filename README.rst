@@ -1,4 +1,5 @@
 $Module cookie 3 Varnish Cookie Module
+
 DESCRIPTION
 ===========
 
